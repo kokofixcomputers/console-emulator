@@ -16,4 +16,4 @@ links:
   icon: download
   link: https://yuzu-emu.org/downloads
 footer:
-  copyright: "&copy; Copyright {{ year }} yuzu Emulator Team"
+  copyright: "&copy; Copyright {{ year }} kokofixcomputers"
