@@ -1,0 +1,19 @@
+input: .
+output: .retype
+url: kokofixcomputers.github.io/console-emulator/
+branding:
+  title: yuzu
+  label: Wiki
+  logo: static/yuzu_logo.svg
+links:
+- text: Home
+  icon: home
+  link: https://yuzu-emu.org
+- text: Github
+  icon: mark-github
+  link: https://github.com/yuzu-emu/yuzu
+- text: Download
+  icon: download
+  link: https://yuzu-emu.org/downloads
+footer:
+  copyright: "&copy; Copyright {{ year }} yuzu Emulator Team"
