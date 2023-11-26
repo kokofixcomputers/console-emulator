@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kokofixcomputers.github.io/console-emulator/sitemap.xml.gz
