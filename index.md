@@ -6,7 +6,7 @@ label: Home
 
 ---
 
-## Welcome to the yuzu Wiki
+## Welcome to the Wiki
 
 <img src="./static/yuzu_logo.svg" width="200"/>
 
