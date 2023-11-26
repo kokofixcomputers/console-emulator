@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: kokofixcomputers.github.io/console-emulator/
 branding:
-  title: yuzu
+  title: Console Emulators
   label: Wiki
   logo: static/yuzu_logo.svg
 links:
