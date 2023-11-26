@@ -1,7 +1,7 @@
 ---
 icon: terminal
 label: Setting Up Yuzu
-order: 2
+order: 59
 ---
 
 ## Step 1 Configure keys:
